@@ -1,0 +1,3 @@
+== ShoppingCartExampleApp
+
+See http://richonrails.com/articles/building-a-shopping-cart-in-ruby-on-rails for details
